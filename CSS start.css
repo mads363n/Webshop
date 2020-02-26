@@ -54,3 +54,12 @@ nav{
   color: #B53737;
     text-decoration: underline;
 }
+.topnav .search-container{
+  float:right;
+}
+.topnav input[type=text]{
+  padding: 6px;
+  margin-top: 0px;
+  font-size: 16px;
+  border:none;
+}
