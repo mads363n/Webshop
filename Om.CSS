@@ -1,1 +1,15 @@
+span.a{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 2px solid red;
+  background-color: white;
+}
 
+span.b{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 2px solid red;
+  background-color: white
+}
