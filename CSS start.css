@@ -38,7 +38,7 @@ nav{
     text-align: right;
     z-index: 1;
     background: #B53737;
-    margin: 0 auto;
+    margin: 25px auto;
     width:calc(100% - 60px);
 }
 .logo{
