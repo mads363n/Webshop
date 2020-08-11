@@ -14,7 +14,7 @@ span.b{
   background-color: white
 }
 body{
-    background-image:url("1.jpg");
+    background-image: url(1.jpg);
     background-color: #cccccc;
     -webkit-background-size:cover;
     background-size: cover;
