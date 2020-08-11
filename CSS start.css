@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(1.jpg);
+    background-image: image(1.jpg);
     -webkit-background-size:cover;
     background-size: cover;
     background-position: center center;
