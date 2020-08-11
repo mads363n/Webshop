@@ -13,3 +13,11 @@ span.b{
   border: 2px solid red;
   background-color: white
 }
+body{
+    background-image:url("1.jpg");
+    background-color: #cccccc;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
