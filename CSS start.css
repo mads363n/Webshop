@@ -9,7 +9,7 @@ body{
     background-image: url(1.jpg);
     -webkit-background-size:cover;
     background-size: cover;
-    background-position: center center;
+    background-position: center;
     height: 100vh;
 }
 .menu-area li a{
@@ -43,7 +43,7 @@ nav{
 .logo{
     width: 15%;
     float: left;
-    text-transform: uppercase;
+    image: "hammer.png";
     color: #fff;
     font-size: 25px;
     text-align: left;
