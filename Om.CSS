@@ -1,8 +1,9 @@
 span.a{
-  width: 100px;
-  height: 100px;
-  padding: 5px;
-  border: 2px solid red;
+  display: inline-block;
+  width: 275px;
+  height: 500px;
+  padding: 50px;
+  border: 2px solid black;
   background-color: white;
 }
 
