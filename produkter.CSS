@@ -1,4 +1,4 @@
-span.a{
+span.b{
   width: 100px;
   height: 100px;
   padding: 5px;
@@ -6,7 +6,7 @@ span.a{
   background-color: white
 }
 
-span.b{
+span.a{
   display: inline-block;
   width: 350px;
   height: 350px;
