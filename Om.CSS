@@ -1,12 +1,13 @@
 span.a{
   display: inline-block;
-  width: 275px;
+  width: 350px;
   height: 500px;
   padding: 50px;
   border: 2px solid black;
   background-color: white;
   position: relative;
   left: 30px;
+  font-size: 20px;
 }
 
 span.b{
@@ -19,12 +20,14 @@ span.b{
 
 span.c{
   display: inline-block;
-  width: 275px;
+  width: 350px;
   height: 500px;
   padding: 50px;
   border: 2px solid black;
   background-color: white;
-  left: 120px;
+  position: absolute;
+  left:400px;
+  font-size: 20px;
 }
 
 body{
