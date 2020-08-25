@@ -5,6 +5,8 @@ span.a{
   padding: 50px;
   border: 2px solid black;
   background-color: white;
+  position: relative;
+  left: 30px;
 }
 
 span.b{
