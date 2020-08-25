@@ -1,0 +1,40 @@
+span.a{
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 2px solid red;
+  background-color: white
+}
+
+span.b{
+  display: inline-block;
+  width: 350px;
+  height: 350px;
+  padding: 50px;
+  border: 2px solid black;
+  background-color: white;
+  position: absolute;
+  left:400px;
+  font-size: 20px;
+}
+
+span.c{
+  display: inline-block;
+  width: 350px;
+  height: 350px;
+  padding: 50px;
+  border: 2px solid black;
+  background-color: white;
+  position: relative;
+  left: 30px;
+  font-size: 20px;
+}
+
+body{
+    background-image: url(1.jpg);
+    background-color: #cccccc;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
