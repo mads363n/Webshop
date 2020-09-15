@@ -38,7 +38,7 @@ span.d{
   border: 2px solid black;
   background-color: white;
   position: relative;
-  left: 740px;
+  right: 30px;
   font-size: 20px;
 }
 
@@ -50,7 +50,7 @@ span.e{
   border: 2px solid black;
   background-color: white;
   position: relative;
-  left: 1095px;
+  right: 385px;
   font-size: 20px;
 }
 
