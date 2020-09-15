@@ -30,8 +30,6 @@ span.c{
   font-size: 20px;
 }
 
-}
-
 span.d{
   display: inline-block;
   width: 325px;
@@ -42,8 +40,6 @@ span.d{
   position: relative;
   left: 740px;
   font-size: 20px;
-}
-
 }
 
 span.e{
@@ -57,6 +53,7 @@ span.e{
   left: 1095px;
   font-size: 20px;
 }
+
 body{
     background-image: url(1.jpg);
     background-color: #cccccc;
