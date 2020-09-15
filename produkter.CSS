@@ -30,6 +30,33 @@ span.c{
   font-size: 20px;
 }
 
+}
+
+span.d{
+  display: inline-block;
+  width: 300px;
+  height: 350px;
+  padding: 40px;
+  border: 2px solid black;
+  background-color: white;
+  position: relative;
+  left: 30px;
+  font-size: 20px;
+}
+
+}
+
+span.e{
+  display: inline-block;
+  width: 300px;
+  height: 350px;
+  padding: 40px;
+  border: 2px solid black;
+  background-color: white;
+  position: relative;
+  left: 30px;
+  font-size: 20px;
+}
 body{
     background-image: url(1.jpg);
     background-color: #cccccc;
