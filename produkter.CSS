@@ -8,9 +8,9 @@ span.c{
 
 span.a{
   display: inline-block;
-  width: 350px;
+  width: 300px;
   height: 350px;
-  padding: 50px;
+  padding: 40px;
   border: 2px solid black;
   background-color: white;
   position: absolute;
@@ -20,9 +20,9 @@ span.a{
 
 span.c{
   display: inline-block;
-  width: 350px;
+  width: 300px;
   height: 350px;
-  padding: 50px;
+  padding: 40px;
   border: 2px solid black;
   background-color: white;
   position: relative;
